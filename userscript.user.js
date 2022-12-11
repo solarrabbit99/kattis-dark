@@ -7,6 +7,7 @@
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @resource     darktheme https://raw.githubusercontent.com/solarrabbit99/kattis-dark/master/darktheme.css
 // @grant        GM_addStyle
+// @grant        GM_getResourceText
 // ==/UserScript==
 
 (function () {
